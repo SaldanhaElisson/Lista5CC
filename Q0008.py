@@ -11,4 +11,4 @@ c = Counter(numerosRepetido)
 
 for numero, repetição in c.items():
     if repetição > 1:
-        print(f'o {numero} repete {repetição} vezes na lista')
+        print(f'O {numero} repete {repetição} vezes na lista')
