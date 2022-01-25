@@ -1,5 +1,5 @@
 # Lista 05 do Curso Ciências da Computação 
-## Disciplina Fundamentos da Programação
+## Disciplina: Fundamentos da Programação
 
 
 
